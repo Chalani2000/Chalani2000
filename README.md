@@ -2,14 +2,14 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12E1FCE3&random=false&width=435&lines=~+Welcome+to+my+GitHub+Profile+~;Full+Stack+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+lover+of+UI%2FUX+design%F0%9F%96%8C%EF%B8%8F;Insatiably+curious+about++Technology" alt="Typing SVG" /></a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyumikithsiri&label=Profile%20views&color=0e75b6&style=flat" alt="piyumikithsiri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chalani2000&label=Profile%20views&color=0e75b6&style=flat" alt="Chalani2000" /> </p>
 
 <p align="center">
-  <a href="https://github.com/piyumikithsiri?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/piyumikithsiri?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Chalani2000?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Chalani2000?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
-  <a href="https://github.com/piyumikithsiri?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/piyumikithsiri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Chalani2000?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Chalani2000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     
 </p>
 
